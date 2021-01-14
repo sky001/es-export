@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <elasticsearch.version>5.5.1</elasticsearch.version>
-        <poi.version>3.10-FINAL</poi.version>
+        <poi.version>4.1.2</poi.version>
         <commons-lang3.version>3.1</commons-lang3.version>
         <json-lib.version>2.2.2</json-lib.version>
 
